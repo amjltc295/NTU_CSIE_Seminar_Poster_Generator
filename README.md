@@ -30,7 +30,7 @@ https://developers.google.com/calendar/v3/reference/events/list?apix_params=%7B%
 
 2. The NTU CSIE seminar annoucement calenderID is `9so7940oqmaih91f869plrtsd8@group.calendar.google.com`
 
-3. Set `timeMin` to cuurent time (e.g., `2019-03-01T10:30:00+08:00`)
+3. Set `timeMin` or `updateMin` to cuurent time (e.g., `2019-03-01T10:30:00+08:00`)
 
 4. Press `Execute`
 

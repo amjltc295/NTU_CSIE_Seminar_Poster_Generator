@@ -25,7 +25,7 @@ def create_doc(
 
     p = document.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    run = p.add_run('國立台灣大學電機資訊學院演講公告\n')
+    run = p.add_run('國立臺灣大學電機資訊學院演講公告\n')
     font = run.font
     font.name = 'Liberation Serif'
     font.size = Pt(43.5)
